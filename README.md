@@ -1,2 +1,5 @@
-# tradeix
-API test
+## TradeIX test API
+
+# Run
+
+    $ python task.py
